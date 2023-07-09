@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamRaje98
 - 👀 I’m interested in Full Stack Software Development, python, java, javascript,TS
-- 🌱 I’m currently learning Data Structure and Analysis, Angular, Spring Boot
+- 🌱 I’m currently learning Angular, Spring Boot
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: shubhamshejaval@gmail.com
 
